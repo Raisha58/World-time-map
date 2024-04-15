@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Color Pallete : #102C57 #DAC0A3 #EADBC8  #FEFAF6 */
+body {
+  background-color: #201658;
+  /* overflow-x: hidden;
+  overflow-y: hidden; */
+}
+
+#name {
+  position: absolute;
+  background-color: #e3fef7;
+  width: fit-content;
+  opacity: 0;
+  border-radius: 5px;
+  border: 3px wheat;
+  padding: 5px;
+  font-size: 1.5rem;
+}
+
+#time {
+  background-color: #e3fef7;
+  width: fit-content;
+  border-radius: 5px;
+  border: 3px wheat;
+  padding: 5px;
+  font-size: 1.5rem;
+}
+
+svg path {
+  cursor: pointer;
+}
+
+svg path:hover {
+  fill: #6b8078;
+}
