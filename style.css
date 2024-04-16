@@ -16,20 +16,20 @@ body {
   width: fit-content;
   opacity: 0;
   border-radius: 5px;
-  border: 3px wheat;
+  border: 3px solid wheat;
   padding: 5px;
   font-size: 1.5rem;
 }
 
-#time {
+#timeCount {
   background-color: #e3fef7;
   width: fit-content;
-  border-radius: 5px;
-  border: 3px wheat;
-  padding: 5px;
   font-size: 1.5rem;
+  padding: 5px;
+  border-radius: 5px;
+  border: 3px solid wheat;
 }
 
-svg paths {
+svg {
   cursor: pointer;
 }
