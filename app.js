@@ -1,5 +1,5 @@
 async function getUser(place) {
-  const api_url = `https://timezone.abstractapi.com/v1/current_time/?api_key=YOUR_API_KEY&location=${place}`;
+  const api_url = `https://timezone.abstractapi.com/v1/current_time/?api_key=735fa4b680bb4dec916040aef776a885&location=${place}`;
 
   const response = await fetch(api_url);
 

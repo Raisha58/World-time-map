@@ -7,7 +7,8 @@
 body {
   background-color: #201658;
   /* overflow-x: hidden; */
-  /* overflow-y: hidden; */
+  overflow-y: hidden;
+  /* 6b8078 */
 }
 
 #name {
